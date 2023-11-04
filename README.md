@@ -4,7 +4,7 @@
    I am improving myself in the field of backend design. I am open to learning and research and constantly busy improving myself.
 - 🔭 I am currently actively learning C#, -SQL and ADO.NET.
 - 💻 Although I have learned a lot since the moment I started software, I know that I still have a lot to learn.
-- 📫 If you would like to reach me, you can reach me via this email: halilacari@outlook.com or click on the social media logos below.
+- 📫 If you would like to reach me, you can click on any of the logos below..
 - 🙃 I'll leave it below so you can take a look at some of the projects I've done to improve myself.
 - 🎈  I wish you good and healthy days.
 
