@@ -23,7 +23,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" width="45" height="45"/>
 
-## Connect with me: <p align="left"> <a href "https://www.linkedin.com/in/halilacari/"><img src-"https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> 
+## Connect with me: <p align="left"> <a href "https://www.linkedin.com/in/halilacari/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a> 
                                      <a href="https://www.instagram.com/halilacari/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
