@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**halilacari/halilacari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 - 🖐 Merhaba! Ben Halil Açarı. Erciyes üniversitesi Bilgisayar Mühendisliği 4.sınıf öğrencisiyim.
   Backend tasarım alanında kendimi geliştirmekteyim. Öğrenmeye ve araştırmaya açık ve sürekli kendimi geliştirmekle meşgulum.
 - 🔭 I am currently actively learning C#, -SQL and ADO.NET.
