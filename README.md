@@ -27,6 +27,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/halilacari/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/halilacari/" height="50" width="50" /></a>
 <a href="https://www.instagram.com/halil.acari/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="https://www.instagram.com/halil.acari/" height="50" width="50" /></a>
-<a href="halilacari@outlook.com" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Outlook.svg" alt="halilacari@outlook.com" height="50" width="50" /></a>
+<a href="mailto:halilacari@outlook.com" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Outlook.svg" alt="mailto:halilacari@outlook.com" height="50" width="50" /></a>
    
 </p>
