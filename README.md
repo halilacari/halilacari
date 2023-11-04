@@ -29,7 +29,6 @@
 <a href="https://www.instagram.com/halil.acari/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="https://www.instagram.com/halil.acari/" height="50" width="50" /></a>
 <a href="mailto:halilacari@outlook.com" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Outlook.svg" alt="mailto:halilacari@outlook.com" height="50" width="50" /></a>
  
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halilacari&layout=donut-vertical)](https://github.com/halilacari/github-readme-stats)
 
    
 </p>
