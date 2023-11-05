@@ -1,3 +1,12 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=WELCOME!+👋;This+is+Halil+AÇARI+'s+Profile....;&center=true&size=45">
+  </a>
+</h1>
+
+
+
+
 ### Hi there! 👋 I'm Halil Açarı. Welcome My Github's profile!!! 🤩🤩🤩
 
 - 🖐 I am a 4th year student at Erciyes University Computer Engineering.
