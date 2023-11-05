@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there! 👋 I'm Halil Açarı. Welcome My Github's profile!!! 🤩🤩🤩
 
-- 🖐 Hello! I am Halil Açarı. I am a 4th year student at Erciyes University Computer Engineering.
+- 🖐 I am a 4th year student at Erciyes University Computer Engineering.
    I am improving myself in the field of backend design. I am open to learning and research and constantly busy improving myself.
 - 🔭 I am currently actively learning C#, -SQL and ASP.NET.
 - 💻 Although I have learned a lot since the moment I started software, I know that I still have a lot to learn.
